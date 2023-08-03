@@ -1,5 +1,4 @@
-
-
+BOT_TOKEN= MTEzNjU5OTc0OTczMTAzNzI1Nw.GpeDRI.Jma9FnPDjaHlHo7qUtH4fUnHSoxbdv_2Juvj90
 import discord
 from discord.ext import commands
 import yfinance as yf
